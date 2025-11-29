@@ -49,13 +49,21 @@ python3 main.py
 You will see:
 
 === StealthNet IP Rotator ===
+
 [1] Tor Mode
+
 [2] Proxy Mode
+
 [3] VPN Mode
+
 [4] MAC Randomization
+
 [5] Auto Scheduler
+
 [6] Show Current IP
+
 📌 Auto Scheduler (Recommended)
+
 The scheduler runs all anonymity layers automatically every user-defined interval (min 80 seconds):
 
 Enter rotation interval (in seconds): 
@@ -70,5 +78,6 @@ See DISCLAIMER.txt for full notice.
 
 👤 Author
 Sonal K
+
 
 
