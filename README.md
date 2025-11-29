@@ -23,10 +23,10 @@ Each layer runs independently or combined — ideal for anonymity labs.
 
 ### Linux / Kali
 
-git clone https://github.com/YOUR-USERNAME/stealthnet-rotator.git
-
-cd stealthnet-rotator
-
+git clone https://github.com/sonalbse/stealth_ip_rotater.git
+cd stealth_ip_rotater
+python3 -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 
 Kali Linux (with Tor)
@@ -76,6 +76,7 @@ This tool is strictly for educational & cybersecurity research.
 Using it to hide illegal activity is prohibited.
 
 See DISCLAIMER.txt for full notice.
+
 
 
 
