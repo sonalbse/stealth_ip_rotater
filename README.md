@@ -32,9 +32,13 @@ pip install -r requirements.txt
 Kali Linux (with Tor)
 
 sudo apt update
+
 sudo apt install tor -y
+
 sudo systemctl enable tor
+
 sudo systemctl start tor
+
 
 ▶️ Usage
 
@@ -66,4 +70,5 @@ See DISCLAIMER.txt for full notice.
 
 👤 Author
 Sonal K
+
 
