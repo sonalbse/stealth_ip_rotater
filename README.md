@@ -24,8 +24,11 @@ Each layer runs independently or combined — ideal for anonymity labs.
 ### Windows / Linux / Kali
 
 git clone https://github.com/YOUR-USERNAME/stealthnet-rotator.git
+
 cd stealthnet-rotator
+
 pip install -r requirements.txt
+
 Kali Linux (with Tor)
 
 sudo apt update
@@ -63,3 +66,4 @@ See DISCLAIMER.txt for full notice.
 
 👤 Author
 Sonal K
+
