@@ -21,7 +21,7 @@ Each layer runs independently or combined — ideal for anonymity labs.
 
 ## 🛠 Installation
 
-### Windows / Linux / Kali
+### Linux / Kali
 
 git clone https://github.com/YOUR-USERNAME/stealthnet-rotator.git
 
@@ -76,6 +76,7 @@ This tool is strictly for educational & cybersecurity research.
 Using it to hide illegal activity is prohibited.
 
 See DISCLAIMER.txt for full notice.
+
 
 
 
