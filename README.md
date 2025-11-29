@@ -40,7 +40,7 @@ sudo systemctl enable tor
 sudo systemctl start tor
 
 
-** Usage
+## 🛠 USAGE
 
 Run: python3 main.py
 
@@ -67,15 +67,22 @@ The scheduler runs all anonymity layers automatically every user-defined interva
 Enter rotation interval (in seconds): 
 
 Example: 120
+-------------
 
 ⚠️ Legal Notice
+
 This tool is strictly for educational & cybersecurity research.
+
 Using it to hide illegal activity is prohibited.
 
 See DISCLAIMER.txt for full notice.
 
-👤 Author
-Sonal K
+
+
+
+
+
+
 
 
 
