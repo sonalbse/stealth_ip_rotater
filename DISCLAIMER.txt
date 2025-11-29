@@ -1,0 +1,5 @@
+This tool is for educational, cybersecurity research,
+and privacy protection only. Do NOT use on networks
+you do not own or do not have permission to test.
+
+Misuse may be illegal. You are responsible for your actions.
