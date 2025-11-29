@@ -40,11 +40,9 @@ sudo systemctl enable tor
 sudo systemctl start tor
 
 
-▶️ Usage
+** Usage
 
-Run:
-
-python3 main.py
+Run: python3 main.py
 
 You will see:
 
@@ -78,6 +76,7 @@ See DISCLAIMER.txt for full notice.
 
 👤 Author
 Sonal K
+
 
 
 
